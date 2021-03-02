@@ -1,5 +1,5 @@
 
-#### Hi there, I'm Anand Gaur
+<h1 align="center">Hi 👋, I'm Anand Gaur</h1>
 Android Developer | kotlin | Flutter Enthusiast | React Native Enthusiast | Having 4+ years of experience. <br/>
 I believe in learning something new everyday.
 
@@ -8,6 +8,9 @@ I believe in learning something new everyday.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandgaur22&layout=compact&hide=html" alt="anandgaur22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandgaur22&show_icons=true" alt="anandgaur22" /></p>
+
 
 
 <b>Primary Skillset: </b> Android, Java, Kotlin <br/>
