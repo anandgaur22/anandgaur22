@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anand Gaur</h1>
-Android Developer | kotlin | Flutter Enthusiast | React Native Enthusiast | Having 4+ years of experience. <br/>
+Senior Software Engineer in Tech Mahindra and Samsung Research Institute India  | kotlin | Flutter Enthusiast | React Native Enthusiast | Having 4+ years of experience. <br/>
 I believe in learning something new everyday.
 
 
