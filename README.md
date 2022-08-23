@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Anand Gaur</h1>
-Senior Software Engineer in Tech Mahindra and Samsung Research Institute India  | kotlin | Flutter Enthusiast | React Native Enthusiast | Having 4+ years of experience. <br/>
-I believe in learning something new everyday.
+
+🌱 I’m currently working Sr. Software Engineer in Tech Mahindra at Client Samsung Research Institute India<br>📫 How to reach me anandgaur22@gmail.com<br>⚡ Main skills Android | Java | kotlin | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
+
 
 
 ![](https://komarev.com/ghpvc/?username=anandgaur22)
