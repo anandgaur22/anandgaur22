@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anand Gaur</h1>
 
-🌱 I’m currently working Sr. Software Engineer in Tech Mahindra at Client Samsung Research Institute India<br>📫 How to reach me anandgaur22@gmail.com<br>⚡ Main skills Android | Java | kotlin | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
+🌱 I’m currently working Tech Lead in TCS India <br>📫 How to reach me anandgaur22@gmail.com<br>⚡ Main skills Android | Java | kotlin | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
 
 
 
