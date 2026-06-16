@@ -1,55 +1,56 @@
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,40:3DDC84,100:02569B&height=210&section=header&text=Anand%20Gaur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20%E2%80%A2%20Mobile%20%26%20AI%20Developer%20%E2%80%A2%20Author%20%E2%80%A2%20Community%20Builder&descAlignY=58&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:2563EB&amp;height=210&amp;section=header&amp;text=Anand%20Gaur&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Mobile%20Tech%20Lead%20%E2%80%A2%20Author%20%E2%80%A2%20AI%20Mobile%20Expert&amp;descAlignY=58&amp;descSize=18" alt="banner"/>
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
   <a href="https://github.com/anandgaur22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Tech+Lead+%26+Mobile+App+Developer;Author+of+6%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Mobile+Tech+Lead+%26+App+Developer;Author+of+6%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter;Building+AI+Agents+with+Android+ADK+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- ===================== STATS BADGES ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandgaur22&label=Profile%20Views&color=3DDC84&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anandgaur22&amp;label=Profile%20Views&amp;color=7C3AED&amp;style=flat-square" alt="profile views" />
   <a href="https://github.com/anandgaur22?tab=followers">
-    <img src="https://img.shields.io/github/followers/anandgaur22?label=Followers&style=flat-square&color=0095D5" alt="followers" />
+    <img src="https://img.shields.io/github/followers/anandgaur22?label=Followers&amp;style=flat-square&amp;color=7C3AED" alt="followers" />
   </a>
   <a href="https://www.linkedin.com/in/anandgaur22">
-    <img src="https://img.shields.io/badge/LinkedIn-30K%2B%20Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-33K%2B%20Followers-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://medium.com/@anandgaur2207">
+    <img src="https://img.shields.io/badge/Medium-5.7K%2B%20Followers-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="medium" />
   </a>
 </div>
 
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
-- 🚀 &nbsp;**Tech Lead** crafting production-grade mobile apps at **TCS, India**
-- 📱 &nbsp;Specializing in **Android, Kotlin, Kotlin Multiplatform, Flutter & React Native**
-- 🤖 &nbsp;Deep focus on **On-Device & Edge AI** — Gemini, Gemma, MediaPipe, LiteRT & ML Kit
-- ✍️ &nbsp;**Author of 6+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
-- 🌍 &nbsp;Founder of **AI Mobile Coders** — a community of **3,200+** mobile developers
-- 🏆 &nbsp;Organizer of the **AI Mobile Hackathon** — **400+** registrations across **44+** teams
-- 🌐 &nbsp;Building & teaching at **[dreamprogramming.in](https://dreamprogramming.in)**
-- 📫 &nbsp;Reach me at **anandgaur22@gmail.com**
-- 💡 &nbsp;*I believe in learning something new every single day.*
+- **Mobile Tech Lead** crafting production-grade mobile apps at **TCS, India**
+- Specializing in **Android, Kotlin, Kotlin Multiplatform, Flutter &amp; React Native**
+- Deep focus on **On-Device AI &amp; Agents** — Android ADK, Gemini, Gemma, MediaPipe, LiteRT &amp; ML Kit
+- **Author of 6+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
+- Founder of **[AI Mobile Coders](https://aimobilecoders.com/)** — a community of **3,200+** mobile developers
+- Organizer of the **AI Mobile Hackathon** — **400+** registrations across **44+** teams
+- Building &amp; teaching at **[dreamprogramming.in](https://dreamprogramming.in)**
+- Reach me at **anandgaur22@gmail.com**
+- *I believe in learning something new every single day.*
 
 <br/>
 
 <!-- ===================== SOCIALS ===================== -->
 ## 🌐 Connect With Me
 
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/anandgaur22)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anandgaur2207)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@technicalanandgaur)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/tech.anandgaur)
-[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anandgaur22)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8193289/anand-gaur)
-[![Website](https://img.shields.io/badge/dreamprogramming.in-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dreamprogramming.in)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandgaur22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@anandgaur2207"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/@technicalanandgaur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/tech.anandgaur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/anandgaur22"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"/></a>
+  <a href="https://stackoverflow.com/users/8193289/anand-gaur"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://dreamprogramming.in"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"/></a>
+</p>
 
 <br/>
 
@@ -57,36 +58,44 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,react,swift,dart,laravel,firebase,git,github,gradle&perline=12" alt="skills"/>
+
+<table>
+  <tr>
+    <td align="right" width="180"><b>📱&nbsp; Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"/>
+      <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="KMP"/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native"/>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖&nbsp; AI Agents &amp; On-Device</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android%20ADK-673AB7?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android ADK"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Gemma-1A73E8?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Gemma"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="MediaPipe"/>
+      <img src="https://img.shields.io/badge/LiteRT%20%2F%20TFLite-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="LiteRT"/>
+      <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="ML Kit"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️&nbsp; Languages &amp; Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-<br/>
-
-**📱 Mobile**
-&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-**🤖 On-Device & Edge AI**
-&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/LiteRT%20%2F%20TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**⚙️ Languages & Backend**
-&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
@@ -140,18 +149,18 @@
 
 <div align="center">
   <a href="https://dreamprogramming.in/books">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Explore%20All%20Books-3DDC84?style=for-the-badge&logoColor=white" alt="explore books"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Explore%20All%20Books-7C3AED?style=for-the-badge&amp;logoColor=white" alt="explore books"/>
   </a>
 </div>
 
 <br/>
 
-<!-- ===================== WRITING & COMMUNITY ===================== -->
-## ✍️ Writing & Community
+<!-- ===================== WRITING &amp; COMMUNITY ===================== -->
+## ✍️ Writing &amp; Community
 
-- 📝 &nbsp;I write practical, real-world deep-dives on **[Medium](https://medium.com/@anandgaur2207)** — Android, iOS, Flutter, React Native, system design & AI.
-- 👥 &nbsp;I run **[AI Mobile Coders](https://www.linkedin.com/in/anandgaur22)** — a growing community helping mobile devs ship AI-powered apps.
-- 🎤 &nbsp;I host hackathons, expert sessions & meetups for the Indian developer community.
+- 📝 &nbsp;I write practical, real-world deep-dives on **[Medium](https://medium.com/@anandgaur2207)** — Android, iOS, Flutter, React Native, system design &amp; AI.
+- 👥 &nbsp;I run **[AI Mobile Coders](https://aimobilecoders.com/)** — a growing community helping mobile devs ship AI-powered apps.
+- 🎤 &nbsp;I host hackathons, expert sessions &amp; meetups for the Indian developer community.
 
 <br/>
 
@@ -159,31 +168,31 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anandgaur22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anandgaur22&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anandgaur22&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anandgaur22&amp;theme=tokyonight&amp;hide_border=true" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandgaur22&layout=compact&theme=tokyonight&hide_border=true&hide=html&langs_count=8" alt="top langs"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandgaur22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandgaur22&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;hide=html&amp;langs_count=8" alt="top langs"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandgaur22&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandgaur22&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6" alt="trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandgaur22&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" alt="activity graph"/>
 </div>
 
 <br/>
 
 <!-- ===================== QUOTE + FOOTER ===================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="quote"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:3DDC84,100:0095D5&height=120&section=footer&text=Let's%20build%20something%20great%20together!&fontSize=20&fontColor=ffffff&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:4F46E5,100:7C3AED&amp;height=120&amp;section=footer&amp;text=Let's%20build%20something%20great%20together!&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=70" alt="footer"/>
