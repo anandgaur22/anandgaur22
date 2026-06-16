@@ -179,12 +179,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandgaur22&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6" alt="trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandgaur22&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" alt="activity graph"/>
 </div>
 
