@@ -11,9 +11,6 @@
 <!-- ===================== STATS BADGES ===================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anandgaur22&amp;label=Profile%20Views&amp;color=7C3AED&amp;style=flat-square" alt="profile views" />
-  <a href="https://github.com/anandgaur22?tab=followers">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/anandgaur22">
     <img src="https://img.shields.io/badge/LinkedIn-33K%2B%20Followers-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" />
   </a>
