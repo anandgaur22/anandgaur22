@@ -4,7 +4,7 @@
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
   <a href="https://github.com/anandgaur22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Mobile+Tech+Lead+%26+App+Developer;Author+of+6%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter;Building+AI+Agents+with+Android+ADK+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Mobile+Tech+Lead+%26+App+Developer;Author+of+7%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter;Building+AI+Agents+with+Android+ADK+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
@@ -100,64 +100,66 @@
 <!-- ===================== BOOKS ===================== -->
 ## 📚 My Published Books
 
-<p align="center"><i>6 hands-on books trusted by mobile developers preparing for top product companies.</i></p>
+<p align="center">
+<i>7 hands-on books trusted by mobile developers preparing for top product companies.</i>
+</p>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/9">
-        <img src="https://dreamprogramming.in/storage/books/covers/7aLzRMAlAGGI6AQAwRKCXRuDGH9bhJUDrGIcpcNG.png" width="150" alt="Cracking the Mobile System Design Interview"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/7aLzRMAlAGGI6AQAwRKCXRuDGH9bhJUDrGIcpcNG.png" width="140" height="200"/><br/><br/>
         <b>Cracking the Mobile<br/>System Design Interview</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/8">
-        <img src="https://dreamprogramming.in/storage/books/covers/hmWzZv0AV2pIcmF3IshnWClu5i3CZCvTIgWrCebi.png" width="150" alt="Mastering AI for Android Developers"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/hmWzZv0AV2pIcmF3IshnWClu5i3CZCvTIgWrCebi.png" width="140" height="200"/><br/><br/>
         <b>Mastering AI for<br/>Android Developers</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/6">
-        <img src="https://dreamprogramming.in/storage/books/covers/v3SwEGovgrBuNVbDyMlFnBaxwmqdDEoNsK1R7y5i.png" width="150" alt="Android Developer Interview Handbook"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/v3SwEGovgrBuNVbDyMlFnBaxwmqdDEoNsK1R7y5i.png" width="140" height="200"/><br/><br/>
         <b>Android Developer<br/>Interview Handbook</b>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://dreamprogramming.in/books/10">
+        <img src="https://dreamprogramming.in/storage/books/covers/HzfISbZvD74f9eYR7bgcuTnLKMqSornwrqYV4Fsy.jpg" width="140" height="200"/><br/><br/>
+        <b>Android Automotive<br/>Interview Handbook</b>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/4">
-        <img src="https://dreamprogramming.in/storage/books/covers/4gBkM1j6PrgS5NDflxoThy9P2ECeIpppKsiykO1A.png" width="150" alt="iOS Developer Interview Handbook"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/4gBkM1j6PrgS5NDflxoThy9P2ECeIpppKsiykO1A.png" width="140" height="200"/><br/><br/>
         <b>iOS Developer<br/>Interview Handbook</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/5">
-        <img src="https://dreamprogramming.in/storage/books/covers/UpCMBeSfzI5U4IunOa1zBvR6aRpmbpK5kFWPJFuJ.png" width="150" alt="Flutter Developer Interview Handbook"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/UpCMBeSfzI5U4IunOa1zBvR6aRpmbpK5kFWPJFuJ.png" width="140" height="200"/><br/><br/>
         <b>Flutter Developer<br/>Interview Handbook</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="25%">
       <a href="https://dreamprogramming.in/books/7">
-        <img src="https://dreamprogramming.in/storage/books/covers/VSWnCaff6LeojKuoqeXYXyvpvl7uWcvChscEnUoE.png" width="150" alt="React Native Developer Interview Handbook"/><br/>
+        <img src="https://dreamprogramming.in/storage/books/covers/VSWnCaff6LeojKuoqeXYXyvpvl7uWcvChscEnUoE.png" width="140" height="200"/><br/><br/>
         <b>React Native Developer<br/>Interview Handbook</b>
       </a>
     </td>
-      <td align="center" width="33%">
-      <a href="https://dreamprogramming.in/books/10">
-        <img src="https://dreamprogramming.in/storage/books/covers/HzfISbZvD74f9eYR7bgcuTnLKMqSornwrqYV4Fsy.jpg" width="150" alt="Android Automative Engineer"/><br/>
-        <b>Android Automative <br/>Interview Book</b>
-      </a>
-    </td>
+    <td align="center" valign="top" width="25%"></td>
   </tr>
 </table>
 
 <div align="center">
+  <br/>
   <a href="https://dreamprogramming.in/books">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Explore%20All%20Books-7C3AED?style=for-the-badge&amp;logoColor=white" alt="explore books"/>
+    <img src="https://img.shields.io/badge/📖%20Explore%20All%20Books-7C3AED?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
-
-<br/>
 
 <!-- ===================== WRITING &amp; COMMUNITY ===================== -->
 ## ✍️ Writing &amp; Community
