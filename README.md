@@ -27,10 +27,11 @@
 - **Mobile Tech Lead** crafting production-grade mobile apps at **TCS, India**
 - Specializing in **Android, Kotlin, Kotlin Multiplatform, Flutter &amp; React Native**
 - Deep focus on **On-Device AI &amp; Agents** — Android ADK, Gemini, Gemma, MediaPipe, LiteRT &amp; ML Kit
-- **Author of 6+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
+- **Author of 7+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
 - Founder of **[AI Mobile Coders](https://aimobilecoders.com/)** — a community of **3,200+** mobile developers
 - Organizer of the **AI Mobile Hackathon** — **400+** registrations across **44+** teams
 - Building &amp; teaching at **[dreamprogramming.in](https://dreamprogramming.in)**
+- About me in details **[click here](https://dreamprogramming.in/anandgaur)**
 - Reach me at **anandgaur22@gmail.com**
 - *I believe in learning something new every single day.*
 
@@ -139,6 +140,12 @@
       <a href="https://dreamprogramming.in/books/7">
         <img src="https://dreamprogramming.in/storage/books/covers/VSWnCaff6LeojKuoqeXYXyvpvl7uWcvChscEnUoE.png" width="150" alt="React Native Developer Interview Handbook"/><br/>
         <b>React Native Developer<br/>Interview Handbook</b>
+      </a>
+    </td>
+      <td align="center" width="33%">
+      <a href="https://dreamprogramming.in/books/10">
+        <img src="https://dreamprogramming.in/storage/books/covers/HzfISbZvD74f9eYR7bgcuTnLKMqSornwrqYV4Fsy.jpg" width="150" alt="Android Automative Engineer"/><br/>
+        <b>Android Automative <br/>Interview Book</b>
       </a>
     </td>
   </tr>
