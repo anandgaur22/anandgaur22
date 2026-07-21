@@ -151,6 +151,13 @@
       </a>
     </td>
     <td align="center" valign="top" width="25%"></td>
+     <td align="center" valign="top" width="25%">
+      <a href="https://dreamprogramming.in/books/11">
+        <img src="https://dreamprogramming.in/storage/books/covers/36WM34fuMrRxZTW7ebqmuibG3vLerdHGEF2BQfja.png" width="140" height="200"/><br/><br/>
+        <b>Data Structures & Algorithms<br/>for Mobile App Developers</b>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%"></td>
   </tr>
 </table>
 
