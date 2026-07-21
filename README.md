@@ -101,72 +101,76 @@
 ## 📚 My Published Books
 
 <p align="center">
-<i>7 hands-on books trusted by mobile developers preparing for top product companies.</i>
+  <i>8 hands-on books trusted by mobile developers preparing for top product companies.</i>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/9">
-        <img src="https://dreamprogramming.in/storage/books/covers/7aLzRMAlAGGI6AQAwRKCXRuDGH9bhJUDrGIcpcNG.png" width="140" height="200"/><br/><br/>
-        <b>Cracking the Mobile<br/>System Design Interview</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/8">
-        <img src="https://dreamprogramming.in/storage/books/covers/hmWzZv0AV2pIcmF3IshnWClu5i3CZCvTIgWrCebi.png" width="140" height="200"/><br/><br/>
-        <b>Mastering AI for<br/>Android Developers</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/6">
-        <img src="https://dreamprogramming.in/storage/books/covers/v3SwEGovgrBuNVbDyMlFnBaxwmqdDEoNsK1R7y5i.png" width="140" height="200"/><br/><br/>
-        <b>Android Developer<br/>Interview Handbook</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/10">
-        <img src="https://dreamprogramming.in/storage/books/covers/HzfISbZvD74f9eYR7bgcuTnLKMqSornwrqYV4Fsy.jpg" width="140" height="200"/><br/><br/>
-        <b>Android Automotive<br/>Interview Handbook</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/4">
-        <img src="https://dreamprogramming.in/storage/books/covers/4gBkM1j6PrgS5NDflxoThy9P2ECeIpppKsiykO1A.png" width="140" height="200"/><br/><br/>
-        <b>iOS Developer<br/>Interview Handbook</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/5">
-        <img src="https://dreamprogramming.in/storage/books/covers/UpCMBeSfzI5U4IunOa1zBvR6aRpmbpK5kFWPJFuJ.png" width="140" height="200"/><br/><br/>
-        <b>Flutter Developer<br/>Interview Handbook</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/7">
-        <img src="https://dreamprogramming.in/storage/books/covers/VSWnCaff6LeojKuoqeXYXyvpvl7uWcvChscEnUoE.png" width="140" height="200"/><br/><br/>
-        <b>React Native Developer<br/>Interview Handbook</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%"></td>
-     <td align="center" valign="top" width="25%">
-      <a href="https://dreamprogramming.in/books/11">
-        <img src="https://dreamprogramming.in/storage/books/covers/36WM34fuMrRxZTW7ebqmuibG3vLerdHGEF2BQfja.png" width="140" height="200"/><br/><br/>
-        <b>Data Structures & Algorithms<br/>for Mobile App Developers</b>
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%"></td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/9">
+<img src="https://dreamprogramming.in/storage/books/covers/7aLzRMAlAGGI6AQAwRKCXRuDGH9bhJUDrGIcpcNG.png" width="150"><br>
+<b>Cracking the Mobile<br>System Design Interview</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/8">
+<img src="https://dreamprogramming.in/storage/books/covers/hmWzZv0AV2pIcmF3IshnWClu5i3CZCvTIgWrCebi.png" width="150"><br>
+<b>Mastering AI for<br>Android Developers</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/6">
+<img src="https://dreamprogramming.in/storage/books/covers/v3SwEGovgrBuNVbDyMlFnBaxwmqdDEoNsK1R7y5i.png" width="150"><br>
+<b>Android Developer<br>Interview Handbook</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/10">
+<img src="https://dreamprogramming.in/storage/books/covers/HzfISbZvD74f9eYR7bgcuTnLKMqSornwrqYV4Fsy.jpg" width="150"><br>
+<b>Android Automotive<br>Interview Handbook</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/4">
+<img src="https://dreamprogramming.in/storage/books/covers/4gBkM1j6PrgS5NDflxoThy9P2ECeIpppKsiykO1A.png" width="150"><br>
+<b>iOS Developer<br>Interview Handbook</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/5">
+<img src="https://dreamprogramming.in/storage/books/covers/UpCMBeSfzI5U4IunOa1zBvR6aRpmbpK5kFWPJFuJ.png" width="150"><br>
+<b>Flutter Developer<br>Interview Handbook</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/7">
+<img src="https://dreamprogramming.in/storage/books/covers/VSWnCaff6LeojKuoqeXYXyvpvl7uWcvChscEnUoE.png" width="150"><br>
+<b>React Native Developer<br>Interview Handbook</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://dreamprogramming.in/books/11">
+<img src="https://dreamprogramming.in/storage/books/covers/36WM34fuMrRxZTW7ebqmuibG3vLerdHGEF2BQfja.png" width="150"><br>
+<b>DSA for Mobile App Developers</b>
+</a>
+</td>
+</tr>
 </table>
 
-<div align="center">
-  <br/>
-  <a href="https://dreamprogramming.in/books">
-    <img src="https://img.shields.io/badge/📖%20Explore%20All%20Books-7C3AED?style=for-the-badge&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+<a href="https://dreamprogramming.in/books">
+<img src="https://img.shields.io/badge/📖%20Explore%20All%20Books-7C3AED?style=for-the-badge">
+</a>
+</p>
 
 <!-- ===================== WRITING &amp; COMMUNITY ===================== -->
 ## ✍️ Writing &amp; Community
