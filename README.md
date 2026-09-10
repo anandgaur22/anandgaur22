@@ -4,7 +4,7 @@
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <div align="center">
   <a href="https://github.com/anandgaur22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Mobile+Tech+Lead+%26+App+Developer;Author+of+7%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter;Building+AI+Agents+with+Android+ADK+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+%F0%9F%91%8B+I'm+Anand+Gaur;Mobile+Tech+Lead+%26+App+Developer;Author+of+8%2B+Technical+Books+%F0%9F%93%9A;Founder+%E2%80%94+AI+Mobile+Coders+Community;On-Device+AI+%7C+Android+%7C+iOS+%7C+Flutter;Building+AI+Agents+with+Android+ADK+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-33K%2B%20Followers-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" />
   </a>
   <a href="https://medium.com/@anandgaur2207">
-    <img src="https://img.shields.io/badge/Medium-5.7K%2B%20Followers-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="medium" />
+    <img src="https://img.shields.io/badge/Medium-6.1K%2B%20Followers-000000?style=flat-square&amp;logo=medium&amp;logoColor=white" alt="medium" />
   </a>
 </div>
 
@@ -27,8 +27,8 @@
 - **Mobile Tech Lead** crafting production-grade mobile apps at **TCS, India**
 - Specializing in **Android, Kotlin, Kotlin Multiplatform, Flutter &amp; React Native**
 - Deep focus on **On-Device AI &amp; Agents** — Android ADK, Gemini, Gemma, MediaPipe, LiteRT &amp; ML Kit
-- **Author of 7+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
-- Founder of **[AI Mobile Coders](https://aimobilecoders.com/)** — a community of **3,200+** mobile developers
+- **Author of 8+ technical books** and an active writer on [Medium](https://medium.com/@anandgaur2207)
+- Founder of **[AI Mobile Coders](https://aimobilecoders.com/)** — a community of **3,500+** mobile developers
 - Organizer of the **AI Mobile Hackathon** — **400+** registrations across **44+** teams
 - Building &amp; teaching at **[dreamprogramming.in](https://dreamprogramming.in)**
 - About me in details **[click here](https://dreamprogramming.in/anandgaur)**
